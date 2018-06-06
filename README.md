@@ -9,4 +9,9 @@ A good knoweldge of CSS
 A good knowledge of JAVASCRIPT
  
  # Image of game
+ ![screenshot 66](https://user-images.githubusercontent.com/22917384/41036388-81b9e86c-69ad-11e8-983e-2a053f7661db.png)
+
+# Image when you get 2 cards of same design
+![screenshot 65](https://user-images.githubusercontent.com/22917384/41036495-da83a74e-69ad-11e8-896f-8e064aee629b.png)
+
  
